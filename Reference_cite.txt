@@ -1,0 +1,7 @@
+References:
+
+https://in.mathworks.com/help/physmod/sps/ug/bldc-speed-control.html
+
+https://in.mathworks.com/matlabcentral/fileexchange/42060-speed-control-of-brush-less-dc-motor
+
+V. M. Varatharaju, B. L. Mathur and K. Udhyakumar, "Speed control of PMBLDC motor using MATLAB/Simulink and effects of load and inertia changes," 2010 International Conference on Mechanical and Electrical Technology, Singapore, 2010, pp. 543-548, doi: 10.1109/ICMET.2010.5598420.
